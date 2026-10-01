@@ -1,5 +1,3 @@
-<img width="1858" height="957" alt="Screenshot from 2026-10-01 20-20-42" src="https://github.com/user-attachments/assets/3d16a582-4c0f-47d1-ab8c-f6762d6fd80d" /># nodejs-demo-app: CI/CD with GitHub Actions
-
 ## Objective
 Automate testing, building and deployment of a Node.js web app using a CI/CD pipeline.
 
